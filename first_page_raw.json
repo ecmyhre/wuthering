@@ -1,0 +1,319 @@
+{
+  "reviews": [
+    {
+      "ratingId": "f4f9f89f-2e25-45bc-80eb-09c4c9e02f88",
+      "rating": "STAR_4",
+      "review": "Movie didn\u2019t totally follow the book.",
+      "displayName": "Paul B",
+      "initials": "PB",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-24T19:58:31.088Z",
+      "user": {
+        "encryptedUserId": "vnBuqVsokCKpUvnuJnsGjtKgCQQcegU7NhkDUELHggcjDtencx2sAKhnncMpCzPfdwhAVFeecOwUk5iBxUQxfpjcXxiAYTPJuqMCxEhP9Se8",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [],
+        "totalCount": 0,
+        "activityType": "user",
+        "activityId": "f4f9f89f-2e25-45bc-80eb-09c4c9e02f88",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "ba763b04-cf56-427e-8e3c-263eae67955b",
+      "rating": "STAR_3_5",
+      "review": "The cinematography was spectacular and the actors were great! The depiction of the story compared to the book had a few changes, so that\u2019s the downside. Wonderful costumes and great score!",
+      "displayName": "Stephanie J",
+      "initials": "SJ",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-24T15:37:42.817Z",
+      "user": {
+        "encryptedUserId": "bjECMXtzjc04SoGFmRHVjh8zfBBckNFeouaKhEGfLLcJptOBSgXSn9cxxc0ehOWSWEs36sPPcEjTMECL2FL5SwzI9QIedSNBu7JsomFDwt4N",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [
+          {
+            "reaction": "smiling_hearts",
+            "count": 1
+          }
+        ],
+        "totalCount": 1,
+        "updateDateTime": "2026-02-24T18:35:14.487Z",
+        "activityType": "user",
+        "activityId": "ba763b04-cf56-427e-8e3c-263eae67955b",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "cd10d069-07b4-4333-a4a3-2c9e23390186",
+      "rating": "STAR_3_5",
+      "review": "A bit long, and not entirely faithful to the novel.",
+      "displayName": "James G J",
+      "initials": "JJ",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-24T13:42:12.103Z",
+      "user": {
+        "encryptedUserId": "wk8fPnsbxIpnUMJHYbfODtALfEEcqLtXYs7zUVPS66cpVtWwSvmSa3SLLcGxUM1Sg5UAnUPPcqmH3wtq9H5PhMAtL4H0EFPXIB1HPkhxgt5X",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [],
+        "totalCount": 0,
+        "activityType": "user",
+        "activityId": "cd10d069-07b4-4333-a4a3-2c9e23390186",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "e3308930-da96-483e-91bc-f1ef9e63c898",
+      "rating": "STAR_1",
+      "review": "Not even 1 star!    Should not have used that classic literature to name such a disgusting boring movie. We paid our money to see a version of a classic - not a sex/animal behavior/perverted movie.   Producers should be ashamed for the deception!",
+      "displayName": "Anne",
+      "initials": "A",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": true,
+      "createDate": "2026-02-24T02:37:09.781Z",
+      "user": {
+        "encryptedUserId": "BR4s8bI6Pu1PSz0hojs0bTMGuggcwbFRLUQaSjGf22caLtWQSeqieASddc48h0OukBu1acJJcNjHpAC4ks2VIYPiBquJQIOaCOPIxAfjdUB2",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [],
+        "totalCount": 0,
+        "activityType": "user",
+        "activityId": "e3308930-da96-483e-91bc-f1ef9e63c898",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "77e67b8b-0a96-4a76-8505-434724e90407",
+      "rating": "STAR_5",
+      "review": "A visual treat! The costume and set design were stunning. \u2764\ufe0f",
+      "displayName": "Christina",
+      "initials": "C",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-24T01:58:08.805Z",
+      "user": {
+        "encryptedUserId": "Pkgf1MipmuJLU92UeLHnzHBXuppcz7hXdCKzuoWhbbcJdtgLt5qSoPcwwcM4hxauL0SGpUBBcgdCLYsYvh9PFR3cA3iGouBehvkf1WcYOijp",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [
+          {
+            "reaction": "smiling_hearts",
+            "count": 1
+          }
+        ],
+        "totalCount": 1,
+        "updateDateTime": "2026-02-24T18:36:03.942Z",
+        "activityType": "user",
+        "activityId": "77e67b8b-0a96-4a76-8505-434724e90407",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "d402e0b5-7d5f-4332-ac38-fd34f716b728",
+      "rating": "STAR_0_5",
+      "review": "a whole lot of nothing. no plot. it was a beautiful film and the acting was good. but other than it looking pretty there was no plot for 2 hours",
+      "displayName": "jasmine",
+      "initials": "J",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-23T20:11:19.262Z",
+      "user": {
+        "encryptedUserId": "2qdsz3hQ6h0Js3pijeSX4hzeCWWcjKsqxCDwSzaSLLcBPtDjSPvSzLFvvc0gCY4saNhJKh44c3pIYNua6ceLCwLsqWHLWCq2sKXIdOHN4Cq2",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [],
+        "totalCount": 0,
+        "activityType": "user",
+        "activityId": "d402e0b5-7d5f-4332-ac38-fd34f716b728",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "639e3204-c191-4006-a106-e49d271f2295",
+      "rating": "STAR_2",
+      "review": "Found it very long and far from the better movies we have seen this year.",
+      "displayName": "john",
+      "initials": "J",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-23T19:55:41.173Z",
+      "user": {
+        "encryptedUserId": "LnbFQjhJ7sn2HaxsP6IDAs3DIJJcBNfn3he6t1BUbbcwjtgdUWMHQXfMMcKnhWNFNXfjQhLLcRvt9Ou3zFvbH54tkjUjMH50uaOfzYSJqtoD",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [],
+        "totalCount": 0,
+        "activityType": "user",
+        "activityId": "639e3204-c191-4006-a106-e49d271f2295",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "2a42ed10-6b85-4922-99ad-77a21cf199d8",
+      "rating": "STAR_5",
+      "review": "Cinematic masterpiece, great acting, music was epic too.",
+      "displayName": "RS",
+      "initials": "RS",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-23T18:17:08.479Z",
+      "user": {
+        "encryptedUserId": "jWAuW8u75ue4i4AC71t12sBofvvcKoHmaIO6sNjSVVcG4toKHv4h8bUAAc8AhXwfPotpkC33cNYhR3u9JUAoI0OSB3teGhLmSoOCkaugVf7Q",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [
+          {
+            "reaction": "smiling_hearts",
+            "count": 1
+          }
+        ],
+        "totalCount": 1,
+        "updateDateTime": "2026-02-24T18:40:28.030Z",
+        "activityType": "user",
+        "activityId": "2a42ed10-6b85-4922-99ad-77a21cf199d8",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "f8e439bc-e490-428f-a1e9-8616ab685600",
+      "rating": "STAR_4_5",
+      "review": "It was good. Toxic but good to me at least. I\u2019m sure didn\u2019t follow the book but for something in the theater I enjoyed it. No I didn\u2019t cry. It was toxic.",
+      "displayName": "Chassady R",
+      "initials": "CR",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-23T18:04:32.766Z",
+      "user": {
+        "encryptedUserId": "aOjHJkSobcpPcnYUV8Ij6f8jUQQcdvHQqsqJHaeSKKcJBtBpidLuzouNNcoPuvpfqKtORhWWc4QtgLURQsePINQtK2F92s54ixJt91UqkIVA",
+        "realm": "Fandango",
+        "initials": "RT",
+        "displayName": "R T"
+      },
+      "reactionSummary": {
+        "reactions": [
+          {
+            "reaction": "smiling_hearts",
+            "count": 1
+          }
+        ],
+        "totalCount": 1,
+        "updateDateTime": "2026-02-24T18:40:39.726Z",
+        "activityType": "user",
+        "activityId": "f8e439bc-e490-428f-a1e9-8616ab685600",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    },
+    {
+      "ratingId": "f43a491c-ac99-4baf-a2eb-e4fa429df05a",
+      "rating": "STAR_0_5",
+      "review": "This movie was such a disappointment after reading the book. It completely left out huge main characters. Dropped at least 50% of the story and it was a very important 50% of the story.  Focused on just one aspect of the book anand completely changed that aspect for the worst. I understand, taking artistic liberties when remaking something. But, if you remake it in a way that you completely change the story I almost feel like you should have to name it something different. Zero respect for the original piece. I\u2019ve been waiting for this for months and regrets wasting two hours of my time after having seen it.",
+      "displayName": "Teleia T",
+      "initials": "TT",
+      "isVerified": true,
+      "isSuperReviewer": false,
+      "hasSpoilers": false,
+      "hasProfanity": false,
+      "createDate": "2026-02-23T16:07:51.481Z",
+      "user": {
+        "encryptedUserId": "aO5sxbFQpsmdfvACVkfj2uWpSQQcVDiQ9fqJHaGsKKcJBtd4tQLf0wFNNcd5ha0h4XfMwfWWc4DHg8uRwHe6FNzfKpH93h5MuWQC91Uq2FVd",
+        "realm": "RT",
+        "familyName": "Templin",
+        "givenName": "Teleia",
+        "fullName": "Teleia Templin",
+        "profileImage": null,
+        "profileHandle": "teleia",
+        "background": null,
+        "initials": "TT",
+        "displayName": "Teleia T"
+      },
+      "reactionSummary": {
+        "reactions": [],
+        "totalCount": 0,
+        "activityType": "user",
+        "activityId": "f43a491c-ac99-4baf-a2eb-e4fa429df05a",
+        "postType": "userReview"
+      },
+      "audienceScore": {
+        "isActivelyModerated": false
+      }
+    }
+  ],
+  "pageInfo": {
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "endCursor": "eyJyZWFsbV91c2VySWQiOiJSVF8wYjA1ZDU3Zi1jNTYwLTQ0NTgtOWNiNS02NzY4NTY5YWQzOGIiLCJlbXNJZCI6IjAyMzMxY2E4LTlmMTctNDA5OC1hYjA4LWQ5MGJjOGE2ODkyNiIsImVtc0lkX2hhc1Jldmlld0lzVmlzaWJsZUlzVmVyaWZpZWQiOiIwMjMzMWNhOC05ZjE3LTQwOTgtYWIwOC1kOTBiYzhhNjg5MjZfVCIsImNyZWF0ZURhdGUiOiIyMDI2LTAyLTIzVDE2OjA3OjUxLjQ4MVoifQ=="
+  }
+}
